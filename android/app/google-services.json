@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "905104249486",
+    "project_id": "family-chat-5d11f",
+    "storage_bucket": "family-chat-5d11f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905104249486:android:bf21879e71afd7e04a2fdf",
+        "android_client_info": {
+          "package_name": "com.nextsoft.family_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905104249486-fcakcfkol9heudj9rt88fadrqmc0cslg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP7a-9pnhE0s7BrmGb9ywqpHskblFi5JI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905104249486-fcakcfkol9heudj9rt88fadrqmc0cslg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
